@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626858382371",
+    "project_id": "listadelacompra-e5dff",
+    "storage_bucket": "listadelacompra-e5dff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626858382371:android:9b2306939c4b55ef398d96",
+        "android_client_info": {
+          "package_name": "org.insbaixcamp.lista_de_la_compra_kenai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXIkAsZqFPQ9CvVr6vs2EgNhx1No-uf40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

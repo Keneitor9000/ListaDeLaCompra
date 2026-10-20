@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lista_de_la_compra_Kenai</string>
+    <string name="default_web_client_id" translatable="false">YOUR_WEB_CLIENT_ID</string>
+</resources>
